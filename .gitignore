@@ -1,0 +1,25 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/main
+
+# Uploaded Media (Ignores all files inside the folder, but tracks the folder itself if you add a .gitkeep)
+/uploads/*
+!/uploads/.gitkeep
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.iml
+
+# OS or Environment specific files
+.DS_Store
+.env
+
+# Test output
+*.test
+*.out
