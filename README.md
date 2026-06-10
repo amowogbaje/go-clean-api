@@ -1,6 +1,3 @@
-
-
-```markdown
 # Go Clean Architecture API
 
 A lightweight, robust REST API built in Go using the **Clean Architecture** pattern. This project features containerized environments using Docker and Docker Compose, the Gin Gonic web framework, a PostgreSQL database, and local volume mounting for persistent media uploads.
